@@ -1,0 +1,15 @@
+C:\Users\44771\source\repos\VacuumCleaner\VacuumCleaner\bin\Debug\net6.0\VacuumCleaner.exe
+C:\Users\44771\source\repos\VacuumCleaner\VacuumCleaner\bin\Debug\net6.0\VacuumCleaner.deps.json
+C:\Users\44771\source\repos\VacuumCleaner\VacuumCleaner\bin\Debug\net6.0\VacuumCleaner.runtimeconfig.json
+C:\Users\44771\source\repos\VacuumCleaner\VacuumCleaner\bin\Debug\net6.0\VacuumCleaner.dll
+C:\Users\44771\source\repos\VacuumCleaner\VacuumCleaner\bin\Debug\net6.0\VacuumCleaner.pdb
+C:\Users\44771\source\repos\VacuumCleaner\VacuumCleaner\obj\Debug\net6.0\VacuumCleaner.csproj.AssemblyReference.cache
+C:\Users\44771\source\repos\VacuumCleaner\VacuumCleaner\obj\Debug\net6.0\VacuumCleaner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44771\source\repos\VacuumCleaner\VacuumCleaner\obj\Debug\net6.0\VacuumCleaner.AssemblyInfoInputs.cache
+C:\Users\44771\source\repos\VacuumCleaner\VacuumCleaner\obj\Debug\net6.0\VacuumCleaner.AssemblyInfo.cs
+C:\Users\44771\source\repos\VacuumCleaner\VacuumCleaner\obj\Debug\net6.0\VacuumCleaner.csproj.CoreCompileInputs.cache
+C:\Users\44771\source\repos\VacuumCleaner\VacuumCleaner\obj\Debug\net6.0\VacuumCleaner.dll
+C:\Users\44771\source\repos\VacuumCleaner\VacuumCleaner\obj\Debug\net6.0\refint\VacuumCleaner.dll
+C:\Users\44771\source\repos\VacuumCleaner\VacuumCleaner\obj\Debug\net6.0\VacuumCleaner.pdb
+C:\Users\44771\source\repos\VacuumCleaner\VacuumCleaner\obj\Debug\net6.0\VacuumCleaner.genruntimeconfig.cache
+C:\Users\44771\source\repos\VacuumCleaner\VacuumCleaner\obj\Debug\net6.0\ref\VacuumCleaner.dll
